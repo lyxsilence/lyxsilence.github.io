@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lyxsilence.github.io/"/>
-  <updated>2017-11-26T08:15:22.916Z</updated>
+  <updated>2017-11-26T08:17:00.481Z</updated>
   <id>https://lyxsilence.github.io/</id>
   
   <author>
@@ -21,21 +21,19 @@
     <link href="https://lyxsilence.github.io/2017/11/26/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E4%B9%8BPS%E5%88%87%E5%9B%BE/"/>
     <id>https://lyxsilence.github.io/2017/11/26/前端学习之PS切图/</id>
     <published>2017-11-26T07:19:32.000Z</published>
-    <updated>2017-11-26T08:15:22.916Z</updated>
+    <updated>2017-11-26T08:17:00.481Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="为什么切图？"><a href="#为什么切图？" class="headerlink" title="为什么切图？"></a>为什么切图？</h2><p>给网页提供图片素材</p><ul><li><p>HTML:img</p>  <figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">"/top.jpg"</span> <span class="attr">alt</span>=<span class="string">"头像"</span>&gt;</span></span><br></pre></td></tr></table></figure></li><li><p>CSS:background</p>  <figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-class">.icon</span>&#123;</span><br><span class="line">    <span class="attribute">background-image</span>:<span class="built_in">url</span>(./top.png)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li></ul><a id="more"></a><h2 id="使用PS工具"><a href="#使用PS工具" class="headerlink" title="使用PS工具"></a>使用PS工具</h2><h3 id="PS下载：官网"><a href="#PS下载：官网" class="headerlink" title="PS下载：官网"></a>PS下载：<a href="www.adobe.com/cn/products/cs6/photoshop.html">官网</a></h3><h3 id="如何使用PS"><a href="#如何使用PS" class="headerlink" title="如何使用PS"></a>如何使用PS</h3><pre><code>1.PS首选项设置    编辑 &gt; 首选项 &gt; 单位与标尺：         标尺与文字的单位选择像素2.面板    在“窗口”菜单下开启：        工具        选项        信息(F8)        图层(F7)        历史记录设置好之后就可以在窗口菜单下的工作区选项里保存工作区，这样不管面板被谁搞乱了都可以从工作区恢复过来3.工具     切图常用的工具：        移动工具        矩形选框工具        魔棒工具        裁剪工具+切片工具        缩放工具            -放大：Ctrl+加号            -缩小：Ctrl+减号        取色器等4.辅助视图    在视图菜单下开启：        对齐        标尺Ctrl+R        显示&gt;参考线 Ctrl+;(需要勾选显示额外内容)</code></pre>]]></content>
+    <content type="html"><![CDATA[<h2 id="为什么切图？"><a href="#为什么切图？" class="headerlink" title="为什么切图？"></a>为什么切图？</h2><p>给网页提供图片素材</p><ul><li><p>HTML:img</p>  <figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">"/top.jpg"</span> <span class="attr">alt</span>=<span class="string">"头像"</span>&gt;</span></span><br></pre></td></tr></table></figure></li><li><p>CSS:background</p>  <figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-class">.icon</span>&#123;</span><br><span class="line">    <span class="attribute">background-image</span>:<span class="built_in">url</span>(./top.png)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li></ul><!----><h2 id="使用PS工具"><a href="#使用PS工具" class="headerlink" title="使用PS工具"></a>使用PS工具</h2><h3 id="PS下载：官网"><a href="#PS下载：官网" class="headerlink" title="PS下载：官网"></a>PS下载：<a href="&quot;www.adobe.com/cn/products/cs6/photoshop.html&quot;">官网</a></h3><h3 id="如何使用PS"><a href="#如何使用PS" class="headerlink" title="如何使用PS"></a>如何使用PS</h3><pre><code>1.PS首选项设置    编辑 &gt; 首选项 &gt; 单位与标尺：         标尺与文字的单位选择像素2.面板    在“窗口”菜单下开启：        工具        选项        信息(F8)        图层(F7)        历史记录设置好之后就可以在窗口菜单下的工作区选项里保存工作区，这样不管面板被谁搞乱了都可以从工作区恢复过来3.工具     切图常用的工具：        移动工具        矩形选框工具        魔棒工具        裁剪工具+切片工具        缩放工具            -放大：Ctrl+加号            -缩小：Ctrl+减号        取色器等4.辅助视图    在视图菜单下开启：        对齐        标尺Ctrl+R        显示&gt;参考线 Ctrl+;(需要勾选显示额外内容)</code></pre>]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;为什么切图？&quot;&gt;&lt;a href=&quot;#为什么切图？&quot; class=&quot;headerlink&quot; title=&quot;为什么切图？&quot;&gt;&lt;/a&gt;为什么切图？&lt;/h2&gt;&lt;p&gt;给网页提供图片素材&lt;/p&gt;
+      
+      
+        &lt;h2 id=&quot;为什么切图？&quot;&gt;&lt;a href=&quot;#为什么切图？&quot; class=&quot;headerlink&quot; title=&quot;为什么切图？&quot;&gt;&lt;/a&gt;为什么切图？&lt;/h2&gt;&lt;p&gt;给网页提供图片素材&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;HTML:img&lt;/p&gt;
-  &lt;figure class=&quot;highlight html&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;name&quot;&gt;img&lt;/span&gt; &lt;span class=&quot;attr&quot;&gt;src&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;/top.jpg&quot;&lt;/span&gt; &lt;span class=&quot;attr&quot;&gt;alt&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;头像&quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;CSS:background&lt;/p&gt;
-  &lt;figure class=&quot;highlight css&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;selector-class&quot;&gt;.icon&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;attribute&quot;&gt;background-image&lt;/span&gt;:&lt;span class=&quot;built_in&quot;&gt;url&lt;/span&gt;(./top.png)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;figure class
+      
     
     </summary>
     

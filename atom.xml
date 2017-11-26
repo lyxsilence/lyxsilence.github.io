@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lyxsilence.github.io/"/>
-  <updated>2017-11-26T07:26:43.226Z</updated>
+  <updated>2017-11-26T07:30:46.900Z</updated>
   <id>https://lyxsilence.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://lyxsilence.github.io/2017/11/26/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E4%B9%8BPS%E5%88%87%E5%9B%BE/"/>
     <id>https://lyxsilence.github.io/2017/11/26/前端学习之PS切图/</id>
     <published>2017-11-26T07:19:32.000Z</published>
-    <updated>2017-11-26T07:26:43.226Z</updated>
+    <updated>2017-11-26T07:30:46.900Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="为什么切图"><a href="#为什么切图" class="headerlink" title="为什么切图"></a>为什么切图</h2><p>给网页提供图片素材</p><ul><li>HTML:img<br>  <code>html  &lt;img src=&quot;/top.jpg&quot; alt=&quot;头像&quot;&gt;</code>html</li><li>CSS:background<br>  ```css<br>  .icon{<pre><code>background-image:url(./top.png)</code></pre>  }<br>  ```css</li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="为什么切图"><a href="#为什么切图" class="headerlink" title="为什么切图"></a>为什么切图</h2><p>给网页提供图片素材</p><ul><li><p>HTML:img</p>  <figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">"/top.jpg"</span> <span class="attr">alt</span>=<span class="string">"头像"</span>&gt;</span></span><br></pre></td></tr></table></figure></li><li><p>CSS:background</p>  <figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-class">.icon</span>&#123;</span><br><span class="line">    <span class="attribute">background-image</span>:<span class="built_in">url</span>(./top.png)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li></ul>]]></content>
     
     <summary type="html">
     
@@ -31,8 +31,8 @@
       
         &lt;h2 id=&quot;为什么切图&quot;&gt;&lt;a href=&quot;#为什么切图&quot; class=&quot;headerlink&quot; title=&quot;为什么切图&quot;&gt;&lt;/a&gt;为什么切图&lt;/h2&gt;&lt;p&gt;给网页提供图片素材&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;HTML:img&lt;br&gt;  &lt;code&gt;html
-  &amp;lt;img 
+&lt;li&gt;&lt;p&gt;HTML:img&lt;/p&gt;
+  &lt;figure class=&quot;hi
       
     
     </summary>
